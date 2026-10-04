@@ -8,5 +8,5 @@ Install with:
 pip install pandas numpy scipy scikit-learn matplotlib
 
 How to run
-Put the CSV in the same folder as the scripts, then run python workflow.py, python report_numbers.py or python figures.py.
+Put the CSV in the same folder as the scripts, then run python file.
 
