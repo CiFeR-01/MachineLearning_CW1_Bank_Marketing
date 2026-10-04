@@ -1,0 +1,3 @@
+https://archive.ics.uci.edu/dataset/222/bank+marketing -uci
+
+https://www.kaggle.com/datasets/abdelazizsami/bank-marketing - kaggle
